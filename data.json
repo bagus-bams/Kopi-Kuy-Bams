@@ -1,0 +1,109 @@
+{
+  "arabica": [
+        {
+            "nama": "Kopi Arabika Sidikalang",
+            "size": "1.000 Gram",
+            "harga": "148.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/1.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-sidikalang-1000-gr-biji"
+        },
+            {
+            "nama": "Kopi Arabica Aceh Gayo Super",
+            "size": "500 Gram",
+            "harga": "58.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/2.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-aceh-gayo-super-500-gr-bubuk-kasar"
+            },
+            {
+            "nama": "Kopi Arabica Gayo Honey Process",
+            "size": "1.000 Gram",
+            "harga": "200.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/3.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-honey-process-1-kg-bubuk-halus"
+            },
+            {
+            "nama": "Kopi Arabica Gayo Premium Specialty",
+            "size": "200 Gram",
+            "harga": "49.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/4.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-premium-specialty-200-gr-bubuk-biji-grosir-biji"
+            },
+            {
+            "nama": "Kopi Luwak Liar Arabica Gayo",
+            "size": "1.000 Gram",
+            "harga": "280.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/5.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-luwak-liar-arabica-gayo-1kg-biji-bubuk-bubuk-halus"
+            },
+            {
+            "nama": "Kopi Arabica Gayo Peaberry",
+            "size": "500 Gram",
+            "harga": "105.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/6.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabica-gayo-peaberry-jantan-500-gr-bubuk-biji-biji"
+            },
+            {
+            "nama": "Kopi Arabica Gayo Wine",
+            "size": "500 Gram",
+            "harga": "118.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/7.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-arabika-gayo-wine-500-gr-biji-bubuk-grosir-reseller-dropshiper-bubuk-halus"
+            }
+  ],
+
+    "robusta": [
+        {
+            "nama": "Kopi Aceh Robusta Gayo Natural Premium",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/8.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-aceh-robusta-gayo-natural-premium-250-gr-bubuk-kasar"
+        },
+        {
+            "nama": "Kopi Robusta Natural Sidikalang Premium",
+            "size": "500 Gram",
+            "harga": "40.000",
+            "foto": "https://rikikurnia.com/prakerja/api/img/9.jpg",
+            "link": "https://www.tokopedia.com/sopic-store/kopi-robusta-natural-sidikalang-premium-500-gr-biji"
+       }
+    ],
+
+    "nonkopi" : [
+        
+        {
+            "foto": "https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/4/1/4001d2be-48dd-4d1d-b83d-ac6edae66ed8.jpg",
+            "nama": "<em>aice</em> Vanilla Bucket",
+            "size": "8000 Gram",
+            "harga": "172.000",
+            "link": "https://shopee.co.id/product/145169054/5682744934"
+        },
+        {
+            "foto": "https://img.ws.mms.shopee.co.id/832a4152f9e88a64b0ccae36b1f67000",
+            "nama": "<em>aice</em> 3in1 Bucket",
+            "size": "8000 Gram",
+            "harga": "165.000",
+            "link": "https://shopee.co.id/Aice-3in1-Bucket-8-liter-Rasa-Vanilla-Coklat-dan-Strawberry-Bulky-Ember-Ekonomis-Best-Seller-Neapolitan-3-rasa-Ice-Cream-Es-Krim-Dessert-i.711699716.15361952557"
+        },        
+        {
+            "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "nama": "Ice Lemon Tea",
+            "size": "400 ml",
+            "harga": "7000",
+            "link": "https://shopee.co.id/LEMON-TEA-1KG-BUBUK-MINUMAN-PREMIUM-i.1064326288.19583882329?sp_atk=1c020607-1a73-4531-a13e-fe7250d46f88&xptdk=1c020607-1a73-4531-a13e-fe7250d46f88"
+        },        
+        {
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2020/03/17/1162215485.jpg",
+            "nama": "Ice Lemon Tea",
+            "size": "400 ml",
+            "harga": "10000",
+            "link": "https://shopee.co.id/%E2%98%98%EF%B8%8FMUMTAAZZTORE%E2%98%98%EF%B8%8F-FORISA-Anget-Sari-Susu-Jahe-Wedang-Jahe-i.40571754.5207478624?sp_atk=2d7d072c-5f65-49e7-a30e-23e5ecfbf6c8&xptdk=2d7d072c-5f65-49e7-a30e-23e5ecfbf6c8"
+        },
+        {
+            "nama": "Es Krim Mangkok",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "foto": "https://p0.pxfuel.com/preview/861/839/598/ice-ice-cream-ice-cream-sundae-sweet.jpg",
+            "link": "https://www.tokopedia.com/jakartagrosirjaya/aice-vanilla-chocolate-sundae-ice-cream-eskrim-800-ml"
+       }    
+    ]
+}
